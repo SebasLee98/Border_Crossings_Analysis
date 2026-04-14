@@ -1,1 +1,2 @@
 # Python Analysis with Pandas and OpenpyXL
+This project is focused on utilizing Python to create visual analysis of Border Crossing Entry [data](https://catalog.data.gov/dataset/border-crossing-entry-data-683ae) from Data.gov. For this project I utlized libraries such as Pandas to create dataframes similar to Excel sheets, and MatPlotLib to create barcharts along with new columns I created with for loops.
